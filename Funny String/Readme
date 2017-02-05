@@ -1,0 +1,17 @@
+First Enter number of strings to be taken for input
+Input string to be reversed first then if it satisfies formula 
+|S[i]- S[i-1]| = |R[i]- R[i-1]|, where S is the string and R is the reversed string,
+Output should be Funny else Not Funny
+
+
+Example
+input :-
+2
+acxz
+bcxz
+
+output
+acxz
+Funny
+bcxz
+Not Funny
